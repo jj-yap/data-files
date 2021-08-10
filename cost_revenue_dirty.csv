@@ -1,4 +1,4 @@
-Rank,Release Date,Movie Title,Production Budget ($),Worldwide Gross ($),Domestic Gross ($)
+Rank,Release_Date,Movie_Title,USD_Production_Budget,USD_Worldwide_Gross,USD_Domestic_Gross
 5293,8/2/1915,The Birth of a Nation,"$110,000","$11,000,000","$10,000,000"
 5140,5/9/1916,Intolerance,"$385,907",$0,$0
 5230,12/24/1916,"20,000 Leagues Under the Sea","$200,000","$8,000,000","$8,000,000"
